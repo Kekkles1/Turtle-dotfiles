@@ -1,0 +1,10 @@
+configuration {
+  font: "Inconsolata 12";
+  show-icons: true;
+  modes: [ combi ];
+  combi-modes: [ window, drun, run ];
+}
+
+@theme "catppuccin-default"
+ 
+/* Insert theme modifications after this */
